@@ -1,9 +1,10 @@
- would like to leave 'functions.php' alone.
+## Headless WordPress for Nuxt.js
+WordPress Theme Headless WordPress for Nuxt.js by Sho Yamane
+Version: 1.0.0
+Requires at least: version 4.7 or higher
+Tested up to: WordPress 4.7
 
- # plug-in
-
- - [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
- - [ACF to REST API](https://wordpress.org/plugins/acf-to-rest-api/)
- - [Jetpack by WordPress.com](https://wordpress.org/plugins/jetpack/)
- - [No Category Base (WPML)](https://wordpress.org/plugins/no-category-base-wpml/)
- - [WP REST API Menus](https://ja.wordpress.org/plugins/wp-api-menus/)
+## headless-wordpress License
+License - 100% under the GNU General Public License v3.0
+URL: https://github.com/moroi/headless-wordpress
+Created by moroi
